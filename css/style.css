@@ -17,7 +17,7 @@ body {
     margin-right: 400px;
 }
 
-.dish {
+.dishCard {
     display: grid;
     grid-template-columns: 3fr 1fr;
     grid-template-rows: auto;
@@ -26,6 +26,8 @@ body {
     border-radius: 2%;
     width:600px;
     height:400px;
+    margin: 0 auto;
+    margin-top: 20px;
 }
 .dish h1{
     color: red;
